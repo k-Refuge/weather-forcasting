@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather Forecasting Model: AI Project Documentation
 
 Hello! I'm Kenza, and this is my first academic project in AI — working with time series data! I'm super excited about this journey 😅.
@@ -31,7 +30,7 @@ The forecast data includes predictions for 2023 (February to June):
 - **Data Points per Forecast**: 50 measurements
 
 Each forecast file contains **50 measurements** taken at **3 different forecast hours**, across **8 different days**.
-![alt text](image.png)
+![alt text](plots/image.png)
 
 ### Why These Months?
 
@@ -336,4 +335,4 @@ The project includes four main parts:
 
 4- Testing and evaluating the models
 
->>>>>>> 21491cca1749a251f5b4989b9ce3ee81c0463bc2
+
