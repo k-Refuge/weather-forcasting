@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Forecasting Model: AI Project Documentation
 
 Hello! I'm Kenza, and this is my first academic project in AI — working with time series data! I'm super excited about this journey 😅.
@@ -317,3 +318,22 @@ weather-forecasting/
 **Thank you for reading! 🙏**
 
 *Final Note: XGBoost is the clear winner — it's the best model for this weather forecasting task.*
+=======
+
+#weather-forcasting
+
+
+
+In this repository, we forecast temperature based on real-world weather data.
+
+The project includes four main parts:
+
+1- Understanding and visualizing the data
+
+2- Processing the data
+
+3- Training three different machine learning models
+
+4- Testing and evaluating the models
+
+>>>>>>> 21491cca1749a251f5b4989b9ce3ee81c0463bc2
